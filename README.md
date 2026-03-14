@@ -349,9 +349,6 @@ HilbertShield uses structured JSON logging:
 ## 🎓 Learn More
 
 - Read the [Technical Brief](marketing/tech_brief.md) for CTOs
-- Review [Requirements](. kiro/specs/hilbert-shield-fraud-detection/requirements.md)
-- Check [Design Document](.kiro/specs/hilbert-shield-fraud-detection/design.md)
-- See [Implementation Tasks](.kiro/specs/hilbert-shield-fraud-detection/tasks.md)
 
 ## ✅ Project Status
 
@@ -384,12 +381,6 @@ For production use:
 4. **Scale Horizontally** (stateless API, add more workers)
 5. **Retrain Periodically** (fraud patterns evolve)
 
-## 📞 Support
-
-For questions or issues:
-- Review the technical brief in `marketing/tech_brief.md`
-- Check test examples in `tests/`
-- Examine the specification in `.kiro/specs/`
 
 ---
 
